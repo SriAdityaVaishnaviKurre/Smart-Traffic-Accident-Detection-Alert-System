@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+pytesseract
+twilio
+numpy
+pandas
